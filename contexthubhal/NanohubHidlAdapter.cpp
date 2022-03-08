@@ -25,6 +25,7 @@
 #include "nanohub_perdevice.h"
 
 #include <inttypes.h>
+#include <fcntl.h>
 
 #include <log/log.h>
 #include <utils/String8.h>

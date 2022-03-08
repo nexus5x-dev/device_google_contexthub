@@ -25,6 +25,7 @@
 #include <string>
 
 #include <endian.h>
+#include <fcntl.h>
 
 #include <vector>
 
